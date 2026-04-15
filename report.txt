@@ -1,0 +1,14 @@
+Student Support Report
+======================
+
+Rule 1: Underperforming = marks < 12
+
+Underperforming Students:
+- Ali: 9
+- John: 11
+- Usman: 7
+- Bilal: 10
+
+Invalid Email Records:
+- John: john.doe@university
+- Bilal: bilal_at_university.edu
